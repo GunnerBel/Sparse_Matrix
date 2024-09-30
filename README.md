@@ -97,9 +97,6 @@ The program handles:
 - Invalid format: Raises `ValueError` if the input file does not conform to the expected format
 - Dimension mismatches: Raises `ValueError` if the matrices cannot be added, subtracted, or multiplied due to incompatible dimensions
 
-## Sample Input and Output
-
-Sample input and output files can be found in the `/sample_inputs/` and `/sample_outputs/` directories. These demonstrate the structure and format expected by the program.
 
 ## Contributing
 
